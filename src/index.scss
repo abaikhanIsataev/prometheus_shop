@@ -2,7 +2,9 @@ body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: url("https://html-templates.info/images/pages/140520040122.jpg") ;
+  background: url("https://wallpapercave.com/wp/dV66axw.jpg") ;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
 * {
@@ -125,6 +127,7 @@ header {
       right: 30px;
       top: 20px;
       transition: transform 0.15s ease-in-out;
+      
     }
   }
 }

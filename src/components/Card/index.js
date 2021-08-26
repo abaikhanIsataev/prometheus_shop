@@ -50,7 +50,7 @@ function Card({
             <div className={styles.favorite} onClick={onClickFavorite}>
             </div>
           )}
-          <img width="100%" height={135} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCJbYcC-wZtl3Tpn00Su8jZZl0Qd_sDs5j9g&usqp=CAU" alt="Sneakers" />
+          <img width="100%" height={135} src={imageUrl} alt="Sneakers" />
           <h5>{title}</h5>
           <div className="d-flex justify-between align-center">
             <div className="d-flex flex-column">
